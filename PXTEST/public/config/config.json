@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3E856087ECC9eD87A7dC55e1Cf6537EC7491FDee",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x3e856087ecc9ed87a7dc55e1cf6537ec7491fdee",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "pxTIGERTRAPPP",
+  "SYMBOL": "PTTEST",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 50000000000000000000,
+  "DISPLAY_COST": 50,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/gg-zoynabwria",
+  "SHOW_BACKGROUND": true
+}
